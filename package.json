@@ -1,0 +1,21 @@
+{
+  "name": "laturra",
+  "version": "1.0.0",
+  "description": "Centro de Adopciones La Turra",
+  "license": "ISC",
+  "author": "Janire Longarte",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
